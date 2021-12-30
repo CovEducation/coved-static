@@ -44,7 +44,7 @@ const ResourcesPage = () => {
         <h2> Resources </h2>
         <Grid container direction="row" justifyContent="center" spacing={2}>
           <Grid item sm={8} xs={10}>
-            Welcome to our resources page! Here you will be able to find links to more online learning resources. Don't have a mentor yet, but need help in a particular subject? No problem! Check out our <a target="_blank" rel="noopener noreferrer" href="https://piazza.com/coveducation/spring2022/coved1"> Piazza page</a>! To join the piazza forum, simply follow these <a href="http://tinyurl.com/menteeguideline" target="_blank" rel="noopener noreferrer" >written instructions</a>, or follow the <a href="http://tinyurl.com/piazzavid" target="_blank" rel="noopener noreferrer" >instructions in this video.</a>
+            Welcome to our resources page! Here you will be able to find links to more online learning resources. Don't have a mentor yet, but need help in a particular subject? No problem! Check out our <a target="_blank" rel="noopener noreferrer" href="https://www.piazza.com/coveducation/other/coved1/home"> Piazza page</a>! To join the piazza forum, simply follow these <a href="http://tinyurl.com/menteeguideline" target="_blank" rel="noopener noreferrer" >written instructions</a>, or follow the <a href="http://tinyurl.com/piazzavid" target="_blank" rel="noopener noreferrer" >instructions in this video.</a>
           </Grid>
           <Grid item sm={6} xs={10}>
             <Accordion>

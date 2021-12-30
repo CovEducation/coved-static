@@ -266,11 +266,16 @@ const HomePage = () => {
           </Section>
           <Section backgroundColor='lightorange' p="100px">
             <h2>{t("home.howCovEdWorks")}</h2><br />
-            <ol>
-              <li> <p className="desc"> Mentors sign up for either <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/ZUpy1ZQD9RHmzFGn6"> individual matching and partnership mentoring</a> through the linked form. </p> </li>
-              <li> <p className="desc"> Mentees sign up through <a target="_blank" rel="noopener noreferrer" href="https://forms.gle/CtiraxebVyWJyzek8">this form.</a> </p> </li>
-              <li> <p className="desc"> Our volunteer match mentors to mentees as soon as possible! </p> </li>
-            </ol>
+            <Grid container direction="row" spacing={3} justifyContent="center">
+              {howItWorks.map((s) => {
+                return (
+                  <Grid key={s.step} item md={4} sm={12} xs={12}>
+                    <ImText arrangement="vertical" img={s.imgsrc}> <Circle>{s.key}</Circle> {t(s.step)}
+                    </ImText>
+                  </Grid>
+                )
+              })}
+            </Grid><br /><br />
           </Section>
           <Section p="100px">
             <h2>{t("home.findTutors")}</h2> <br /><br />
@@ -313,3 +318,4 @@ const HomePage = () => {
 }
 
 export default HomePage;
+
