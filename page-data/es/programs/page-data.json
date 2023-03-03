@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-programs-js",
+    "path": "/es/programs/",
+    "result": {"data":{"locales":{"edges":[]}},"pageContext":{"language":"es","i18n":{"language":"es","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/programs/","path":"es/programs/"}}},
+    "staticQueryHashes": []}

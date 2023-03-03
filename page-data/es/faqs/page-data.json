@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-faqs-js",
+    "path": "/es/faqs/",
+    "result": {"data":{"locales":{"edges":[]}},"pageContext":{"language":"es","i18n":{"language":"es","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/faqs/","path":"es/faqs/"}}},
+    "staticQueryHashes": []}

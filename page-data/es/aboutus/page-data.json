@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-aboutus-js",
+    "path": "/es/aboutus/",
+    "result": {"data":{"locales":{"edges":[]}},"pageContext":{"language":"es","i18n":{"language":"es","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/aboutus/","path":"es/aboutus/"}}},
+    "staticQueryHashes": []}

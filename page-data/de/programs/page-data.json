@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-programs-js",
+    "path": "/de/programs/",
+    "result": {"data":{"locales":{"edges":[{"node":{"ns":"translation","data":"{\"home\":{\"subtitle\":\"Fortsetzung der K-12-Ausbildung in den USA während des COVID-19-Ausbruchs\"}}","language":"de"}}]}},"pageContext":{"language":"de","i18n":{"language":"de","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/programs/","path":"de/programs/"}}},
+    "staticQueryHashes": []}

@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-team-js",
+    "path": "/team/",
+    "result": {"pageContext":{"language":"en","i18n":{"language":"en","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":false,"originalPath":"/team/","path":"/team/"}}},
+    "staticQueryHashes": []}

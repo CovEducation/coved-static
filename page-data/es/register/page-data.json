@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-register-js",
+    "path": "/es/register/",
+    "result": {"data":{"locales":{"edges":[]}},"pageContext":{"language":"es","i18n":{"language":"es","languages":["en","es","de"],"defaultLanguage":"en","generateDefaultLanguagePage":false,"routed":true,"originalPath":"/register/","path":"es/register/"}}},
+    "staticQueryHashes": []}
